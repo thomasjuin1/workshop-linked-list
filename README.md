@@ -174,7 +174,7 @@ Pareil que tout à l'heure, mais comme les exos d'avant pensez à bien relier vo
 
 *Affichez votre liste en reverse pour etre sûr que vos éléments ont bien été échangés.*
 
-### Allons nous amusez un peu
+### Allons nous amuser un peu
 
 Créez une fonction qui tri par ordre croissant notre liste chainée,
 prenez ce prototype: `void sort_list(list_t *list)`
